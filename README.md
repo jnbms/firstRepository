@@ -7,4 +7,5 @@
 5. git commit -m "fist commit" 으로 "first commit" 이란 태그(주석)으로 추가한 파일들의 커밋을 설정합니다.
 6. git remote add origin `https:// github.com / {깃허브 아이디} / {레포지토리 이름}.git` 로 주소 등록합니다.
 7. git push origin main 으로 깃 허브의 main 디렉토리로 변경된 내용을 업로드 합니다.
-8. 원격 저장소와 로컬 저장소가 일치하지 않는 오류가 발생할 경우 : git pull --rebase oririn main (origin : 원격 저장소 이름, main : 안의 디렉토리 이름)
+8. 원격 저장소와 로컬 저장소가 일치하지 않는 오류가 발생할 경우 : git pull --rebase oririn main 
+   (origin : 원격 저장소 이름, main : 안의 디렉토리 이름)
